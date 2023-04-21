@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color> <!-- Banner 1 -->
+    <color name="purple_700">#FF3700B3</color>  <!--Boton 1-->
+    <color name="purple_500">#FF6200EE</color>  <!-- Banner 2 -->
+    <color name="teal_200">#FF03DAC5</color>    <!--Player -->
+    <color name="teal_700">#FF018786</color>    <!--Boton 2-->
+
+
+    <color name="black">#FF000000</color> <!-- Banner 1 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="BlackCSTM">#FF333333</color> <!-- Banner2 -->
+    <color name="GreyCSTM">#FF757575</color>    <!-- Boton 1 --> <!--Player -->
+    <color name="Grey2">#FF616161</color> <!-- Boton 2 -->
+    <color name="WhiteCSTM">#FFfbffe3</color>
+
+
+    <color name="GuindaCSTM">#FF9E0C39</color> <!-- Banner 1 -->
+    <color name="RedCSTM">#FFe21b5a</color> <!-- Banner 2 -->
+    <color name="BlueCSTM">#FF1b8798</color> <!--Player -->
+    <color name="GreenCSTM">#FF83A300</color> <!-- Boton 1 -->
+    <color name="YellowCSTM">#FFFFb914</color> <!-- Boton 2-->
+</resources>
